@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm John!
 
 - 🔭 I’m currently working on helpJohnGetGood app using React .
 - 🌱 I’m currently learning and improving MERN stack.
