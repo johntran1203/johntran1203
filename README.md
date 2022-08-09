@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on helpJohnGetGood app using React .
+- 🌱 I’m currently learning and improving MERN stack.
+- 👯 I’m looking to collaborate on any open source project.
+- 🤔 I’m looking for help with finding an open source project.
+- 📫 You can connect with me on [Twitter](https://twitter.com/Johntran1203) and [Linkedln](https://www.linkedin.com/in/john-tran123/)
+- 😄 Pronouns: He/Him
+- ⚡ I like trying new restaurants, hanging out with friends, and being spontaneous.
+
+
 <!--
 **johntran1203/johntran1203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
