@@ -1,4 +1,5 @@
-### Hi there 👋, I'm John!
+![ank](https://user-images.githubusercontent.com/88867959/183924807-bbbb68a2-85b2-44f0-912b-e3e7f7443fef.png)
+
 
 - 🔭 I’m currently working on helpJohnGetGood app using React .
 - 🌱 I’m currently learning and improving MERN stack.
